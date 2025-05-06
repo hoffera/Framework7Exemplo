@@ -38,7 +38,7 @@ const HomePage = () => (
     <BlockTitle>Navigation</BlockTitle>
     <List strong inset dividersIos>
       <ListItem link="/about/" title="Sobre"/>
-      <ListItem link="/form/" title="Formulário "/>
+      <ListItem link="/form/" title="Formulário"/>
     </List>
 
     <BlockTitle>Modals</BlockTitle>
